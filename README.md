@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=System+Architect+%26+Developer;Rust+%C2%B7+Python+%C2%B7+AI+Infrastructure;Moscow%2C+Russia+%C2%B7+MIREA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=Konstantin+Suprun+%2F+sprkon;System+Architect+%26+Developer;Moscow%2C+Russia" alt="Typing SVG" />
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-@твой_тг-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/твой_тг)
+[![Telegram](https://img.shields.io/badge/Telegram-@sprkon-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sprkon)
 
 </div>
 
@@ -64,16 +64,16 @@
 
 ## Projects
 
-**[Enclave Intelligence](https://github.com/твой-профиль/enclave)** &nbsp;·&nbsp; Isolated local LLM environment
+**[Enclave Intelligence](https://github.com/aevarx/enclave)** &nbsp;·&nbsp; Isolated local LLM environment
 > Secure, Zero-Cloud inference for DeepSeek R1 & Llama 4 · **Rust + Tauri** · High-performance RAG pipeline · Consumer-grade GPU optimization
 
-**[Aura Ecosystem](https://github.com/твой-профиль/aura)** &nbsp;·&nbsp; CS2 Tournament Automation Platform
+**[Aura Ecosystem](https://github.com/aevarx/aura)** &nbsp;·&nbsp; CS2 Tournament Automation Platform
 > Full-cycle match orchestration · **FastAPI + PostgreSQL** · Telegram Mini App integration · RCON server management · Scalable MatchZy automation
 
-**[GPTHub](https://github.com/твой-профиль/gpthub)** &nbsp;·&nbsp; Unified AI Agent Workspace
+**[GPTHub](https://github.com/aevarx/gpthub)** &nbsp;·&nbsp; Unified AI Agent Workspace
 > Multi-model management system · **Python + Docker** · Long-term semantic memory for agents · Custom RAG implementation
 
-**[GhostWriter](https://github.com/твой-профиль/ghostwriter)** &nbsp;·&nbsp; System persistence utility
+**[GhostWriter](https://github.com/aevarx/ghostwriter)** &nbsp;·&nbsp; System persistence utility
 > Automated window state management for Linux (Whonix/LXQt) · **Python** · Optimized for persistent developer workflows
 
 ---
@@ -82,15 +82,15 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=[ТВОЙ_НИК]&theme=github-dark-blue&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D&ring=4493F8&fire=4493F8&currStreakLabel=4493F8"/>
+<img src="https://streak-stats.demolab.com?user=sprkon&theme=github-dark-blue&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D&ring=4493F8&fire=4493F8&currStreakLabel=4493F8"/>
 
 </div>
 
 <div align="center">
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=[ТВОЙ_НИК]&theme=github_dark"/>
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sprkon&theme=github_dark"/>
 &nbsp;
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=[ТВОЙ_НИК]&theme=github_dark"/>
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sprkon&theme=github_dark"/>
 
 </div>
 
