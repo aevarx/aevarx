@@ -1,44 +1,34 @@
-# Константин
+# [Твой Ник] 👋
 
-### System Architect & Backend Developer
-
-Специализируюсь на проектировании высоконагруженных систем, автоматизации бизнес-процессов и создании инфраструктуры для локального использования LLM. Фокусируюсь на производительности (Rust), системной стабильности и интеграции AI-решений в закрытые контуры.
-
----
-
-## 🛠 Технологический стек:
-* **Languages:** Python (FastAPI, Asyncio), Rust (Tauri, Axum, PyO3), SQL (PostgreSQL, ClickHouse).
-* **AI & Data:** RAG (Retrieval-Augmented Generation), Vector DBs, Prompt Engineering, Local LLM Inference.
-* **Infrastructure:** Docker & Docker Compose, Linux Administration, Network Protocols (VLESS, VPN/Proxy routing).
-* **Frontend:** Next.js, React, Tailwind CSS.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=System+Architect+%26+Developer;Rust+/+Python+/+AI+Infrastructure;Moscow,+Russia+·+MIREA" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 📂 Ключевые проекты:
-
-### [Enclave Intelligence]
-**Архитектор / Lead Developer**
-Разработка изолированной среды для локального запуска LLM (DeepSeek, Llama). 
-* Стек: **Rust, Tauri**. 
-* Ключевые фичи: Полная автономность (Zero-Cloud), оптимизация инференса под потребительское железо, встроенный RAG-модуль.
-
-### [Aura Ecosystem]
-**Full-stack Developer / Architect**
-Платформа для автоматизации киберспортивных турниров (CS2).
-* Стек: **Python (FastAPI), PostgreSQL, Telegram Mini App**.
-* Ключевые фичи: Оркестрация игровых серверов через RCON, автоматизация матчей, интеграция с MatchZy.
-
-### [GPTHub](https://github.com/aevarx/GPTHub)
-**Backend Developer**
-Единый интерфейс для управления множеством AI-агентов.
-* Стек: **Python, RAG, Docker**.
-* Ключевые фичи: Система долговременной памяти агентов, работа с локальными векторными хранилищами.
+### 🛠 Технологический стек:
+* **Languages:** Python (FastAPI), Rust (Tauri, PyO3), SQL.
+* **Specialization:** AI Infrastructure, RAG Systems, Network Protocols.
+* **Tools:** Docker, Linux, Cursor, Claude 3.5 Sonnet.
 
 ---
 
-## 🎓 Локация:
-* **Город:** Москва, Россия
+### 📂 Ключевые проекты:
+
+* **Enclave Intelligence** — Изолированная среда для локальных LLM (DeepSeek R1/Llama 4). `Rust` `Tauri`
+* **Aura Ecosystem** — Автоматизация турниров и управление игровыми серверами. `Python` `FastAPI`
+* **GPTHub** — Персональное RAG-пространство для работы с AI-агентами. `Python` `VectorDB`
 
 ---
 
-[![](https://github-readme-stats.vercel.app/api?username=[ТВОЙ_НИК]&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 Статистика
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=[ТВОЙ_НИК]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+**📫 Связь:**
+* **Telegram:** @[ТВОЙ_ТГ]
