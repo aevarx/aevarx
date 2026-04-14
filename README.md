@@ -6,29 +6,30 @@
   </a>
 </p>
 
----
-
-### 🛠 Технологический стек:
-* **Languages:** Python (FastAPI), Rust (Tauri, PyO3), SQL.
-* **Specialization:** AI Infrastructure, RAG Systems, Network Protocols.
-* **Tools:** Docker, Linux, Cursor, Claude 3.5 Sonnet.
+### 🛠 Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,rust,postgres,docker,linux,git,react,nextjs,tailwind" />
+</p>
 
 ---
 
-### 📂 Ключевые проекты:
+### 📂 Ключевые проекты
 
-* **Enclave Intelligence** — Изолированная среда для локальных LLM (DeepSeek R1/Llama 4). `Rust` `Tauri`
-* **Aura Ecosystem** — Автоматизация турниров и управление игровыми серверами. `Python` `FastAPI`
-* **GPTHub** — Персональное RAG-пространство для работы с AI-агентами. `Python` `VectorDB`
+* **[Enclave Intelligence](https://github.com/твой-профиль/enclave)** — Изолированная среда для локальных LLM (DeepSeek R1/Llama 4). `Rust` `Tauri`
+* **[Aura Ecosystem](https://github.com/твой-профиль/aura)** — Автоматизация киберспортивных турниров и управление игровыми серверами. `Python` `FastAPI`
+* **[GPTHub](https://github.com/твой-профиль/gpthub)** — Персональное RAG-пространство для работы с AI-агентами. `Python` `VectorDB`
 
 ---
 
-## 📊 Статистика
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ТВОЙ_НИК]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+### 📊 Статистика профиля
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[ТВОЙ_НИК]&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ТВОЙ_НИК]&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" />
 </p>
 
 ---
 
 **📫 Связь:**
 * **Telegram:** @[ТВОЙ_ТГ]
+* **Location:** Москва, РТУ МИРЭА
